@@ -23,5 +23,12 @@
     {"word":"analytical", "date":"2020-05-04", "meaning":"to look at things in a different perspective"},
     {"word":"kind", "date":"2020-05-05", "meaning":"to be very nice and to help people"},
     {"word":"sibling", "date":"2020-05-06", "meaning":"a brother or sister"},
+    {"word":"intelligent", "date":"2020-05-07", "meaning":"to be smart and think before doing something"},
+    {"word":"family", "date":"2020-05-08", "meaning":"people you are close to"},
+    {"word":"thoughtful", "date":"2020-05-11", "meaning":"to think about people and be considerate to them"},
+    {"word":"conscientious", "date":"2020-05-12", "meaning":"being thoughtful and being precise"},
+    {"word":"adventurous", "date":"2020-05-13", "meaning":"to think outside the box and to push your limits"},
+    {"word":"gratitude", "date":"2020-05-14", "meaning":"to be thankful for what you have"},
+    {"word":"persevere", "date":"2020-05-15", "meaning":"to keep going even when you are struggling and times are hard"}
   ]
 }
